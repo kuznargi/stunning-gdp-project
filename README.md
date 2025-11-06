@@ -1,4 +1,4 @@
-# AstanaGuide AI — RAG система рекомендаций по местам Астаны
+# SoloStack - RAG система рекомендаций по местам Астаны
 
 Проект предоставляет рекомендации по местам Астаны с использованием Retrieval-Augmented Generation (RAG) и LLM. Frontend - React, Backend - FastAPI.
 
