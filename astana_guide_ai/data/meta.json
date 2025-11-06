@@ -1,0 +1,11 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "num_records": 123559,
+  "embedding_dim": 384,
+  "files": {
+    "processed_pois": "./astana_guide_ai/data/processed_pois.json",
+    "id_map": "./astana_guide_ai/data/id_map.json",
+    "embeddings": "./astana_guide_ai/data/embeddings.npy",
+    "faiss_index": "./astana_guide_ai/data/faiss.index"
+  }
+}
